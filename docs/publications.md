@@ -18,6 +18,17 @@
 
 | Publisher | Title | Link |
 |---|---|---|
-| ABC | New Weather-Sensing Technology Created to Stop 'Preventable' Heat-Related Fatalities in Queensland's Elderly | [ABC Website](https://www.abc.net.au/news/2023-10-14/qld-heat-sensor-weather-tempreture-heatstroke-heatwave-ethos/102956974) |
+| ABC | New Weather-Sensing Technology Created to Stop 'Preventable' Heat-Related Fatalities in Queensland's Elderly | [ABC](https://www.abc.net.au/news/2023-10-14/qld-heat-sensor-weather-tempreture-heatstroke-heatwave-ethos/102956974) |
+| ABC | Sweltering Cities Panel Warns Brisbane Heatwaves will Worsen | [ABC](https://www.abc.net.au/news/2024-02-14/brisbane-heatwaves-will-worsen-sweltering-cities-says/103460350) |
+| Aged Care Research & Industry Innovation Australia | El Nino Officially Declared: What Does it Mean for Older Australians? | [Ariia Wesbsite](https://www.ariia.org.au/knowledge-implementation-hub/resources/el-nino-officially-declared-what-does-it-mean-older) |
+| Australian Association of Gerontology | Increased Heat: What Does it Mean for Older Australians? | [AAG Website](https://aag.asn.au/Web/Stay-Informed/AAG-500/What-increased-heat-means-for-older-Australians.aspx) |
+| Intouch Public Health | Rise in Heatwaves and Pressure on Ambulance Services | [Intouch Public Health](https://intouchpublichealth.net.au/rise-in-heatwaves-and-pressure-on-ambulance-services/) |
+| Intouch Public Health | Striking Before it’s El Nino Hot: Raising Awareness of Older People’s Heat Health Risks | [Intouch Public Health](https://intouchpublichealth.net.au/striking-before-its-el-nino-hot-raising-awareness-of-older-peoples-heat-health-risks/) |
+| Griffith Climate Action | Heat Information Video Collection | [Part 1](https://www.youtube.com/watch?v=qjhvok5VXBA), [Part 2](https://www.youtube.com/watch?v=N7GuYObkhLA), [Part 3](https://www.youtube.com/watch?v=ZCZ73fkbq4o) |
 | Griffith Climate Action | The Ethos System: Phase 1 Testimonial | [YouTube](https://www.youtube.com/watch?v=O1iXZhQ2row) |
-| Griffith Climate Action | Heat Information Video Collection | [Part 1](https://www.youtube.com/watch?v=qjhvok5VXBA) <br> [Part 2](https://www.youtube.com/watch?v=N7GuYObkhLA) <br> [Part 3](https://www.youtube.com/watch?v=ZCZ73fkbq4o) |
+| Griffith University | Extreme Heat Illness and Fatalities - Prevalent but Preventable | [Griffith Website](https://www.griffith.edu.au/research/impact/extreme-heat-illness-and-fatalities) |
+| Griffith University | Likelihood of More Ambulance Callouts as Heatwave Conditions Continue | [Griffith Website](https://news.griffith.edu.au/2024/01/29/likelihood-of-more-ambulance-callouts-as-heatwave-conditions-continue/) |
+| Springer Nature | Rethinking Heat Early Warning Systems: A Personalised Approach for Older Adults | [Springer Nature](https://communities.springernature.com/posts/rethinking-heat-early-warning-systems-a-personalised-approach-for-older-adults) |
+| New Zealand Geographic | Not A Fan | [New Zealand Geographic](https://www.nzgeo.com/stories/not-a-fan/) |
+| The Conversation | Only 25% of Older Queenslanders are Aware of the Risks Heatwaves put on their Health – New Study | [The Conversation](https://theconversation.com/only-25-of-older-queenslanders-are-aware-of-the-risks-heatwaves-put-on-their-health-new-study-238875) |
+| The Senior | Why you don't have to "Stick it Out" without Air-con During a Hot Summer | [The Senior](https://www.thesenior.com.au/story/8885030/how-older-australians-can-stay-cool-in-summer-with-ethos-project/) |
