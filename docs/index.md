@@ -87,6 +87,14 @@ graph TD
     class EApp,app_ui app;
 ```
 
+## Software / Code
+
+The repositories for each of the components of the architecture can be found below:
+
+* [Ethos Base Station](http://github.com/climate-ethos/ethos-base-station)
+* [Ethos Temperature Sensor](https://github.com/climate-ethos/ethos-temperature-sensor)
+* [Ethos Server](https://github.com/climate-ethos/ethos-server)
+
 ## Hardware
 
 ### Base Station
