@@ -31,9 +31,9 @@
 | Title | Link |
 |---|---|
 | Keep Your Pets Safe From The Heat | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Pet%20Heat-Safe%20Tips.pdf) |
-| Ethos Smartphone App User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/App%20Brochure.pdf) |
 | Cooling Strategies | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/New%20Cooling%20Strategies%20Booklet.pdf) |
 | Ethos System User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos%20basic%20user%20guide%20brochure.pdf) |
+| Ethos Smartphone App User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/App%20Brochure.pdf) |
 
 ## News Articles & Media
 
