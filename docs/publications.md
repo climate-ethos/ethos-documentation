@@ -20,11 +20,11 @@
 
 | Title | Link |
 |---|---|
-| Ethos Phase 1 In-Home Trial 2023-24 Summary | [PDF](https://www.griffith.edu.au/__data/assets/pdf_file/0037/1994176/_Ethos-IHT-Phase-1-summary-2.pdf) |
-| Ethos Heat-Health 65+ Queensland Survey | [PDF](https://www.griffith.edu.au/__data/assets/pdf_file/0040/1979293/Survey-Technical-Report.pdf) |
-| Ethos Project Policy Maker Report | [PDF](https://www.griffith.edu.au/__data/assets/pdf_file/0041/1979456/Ethos-Policymaker-Report.pdf) |
-| World Café 2023 - Exploring Heat, Health, Technology, and Ageing | [PDF](https://www.griffith.edu.au/__data/assets/pdf_file/0022/1980013/Ethos-World-Cafe-February-2023-Report.pdf) |
-| World Café 2024 - Ethos System and In-Home Trial Experience Phase 1 | [PDF](https://www.griffith.edu.au/__data/assets/pdf_file/0020/1980011/Ethos-World-Cafe-April-2024-Report.pdf) |
+| Ethos Phase 1 In-Home Trial 2023-24 Summary | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-IHT-Phase-1-Summary.pdf) |
+| Ethos Heat-Health 65+ Queensland Survey | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Survey-Technical-Report.pdf) |
+| Ethos Project Policy Maker Report | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-Policymaker-Report.pdf) |
+| World Café 2023 - Exploring Heat, Health, Technology, and Ageing | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-February-2023-Report.pdf) |
+| World Café 2024 - Ethos System and In-Home Trial Experience Phase 1 | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-April-2024-Report.pdf) |
 
 ## News Articles & Media
 
