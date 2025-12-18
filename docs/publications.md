@@ -26,6 +26,15 @@
 | World Café 2023 - Exploring Heat, Health, Technology, and Ageing | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-February-2023-Report.pdf) |
 | World Café 2024 - Ethos System and In-Home Trial Experience Phase 1 | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-April-2024-Report.pdf) |
 
+## Leaflets and Infographics
+
+| Title | Link |
+|---|---|
+| Keep Your Pets Safe From The Heat | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Pet%20Heat-Safe%20Tips.pdf) |
+| Ethos Smartphone App User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/App%20Brochure.pdf) |
+| Cooling Strategies | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/New%20Cooling%20Strategies%20Booklet.pdf) |
+| Ethos System User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos%20basic%20user%20guide%20brochure.pdf) |
+
 ## News Articles & Media
 
 | Publisher | Title | Link |
