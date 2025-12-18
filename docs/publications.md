@@ -20,20 +20,20 @@
 
 | Title | Link |
 |---|---|
-| Ethos Phase 1 In-Home Trial 2023-24 Summary | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-IHT-Phase-1-Summary.pdf) |
-| Ethos Heat-Health 65+ Queensland Survey | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Survey-Technical-Report.pdf) |
-| Ethos Project Policy Maker Report | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-Policymaker-Report.pdf) |
-| World Café 2023 - Exploring Heat, Health, Technology, and Ageing | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-February-2023-Report.pdf) |
-| World Café 2024 - Ethos System and In-Home Trial Experience Phase 1 | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-April-2024-Report.pdf) |
+| Ethos Phase 1 In-Home Trial 2023-24 Summary | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-IHT-Phase-1-Summary.pdf) |
+| Ethos Heat-Health 65+ Queensland Survey | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Survey-Technical-Report.pdf) |
+| Ethos Project Policy Maker Report | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-Policymaker-Report.pdf) |
+| World Café 2023 - Exploring Heat, Health, Technology, and Ageing | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-February-2023-Report.pdf) |
+| World Café 2024 - Ethos System and In-Home Trial Experience Phase 1 | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-World-Cafe-April-2024-Report.pdf) |
 
 ## Leaflets and Infographics
 
 | Title | Link |
 |---|---|
-| Keep Your Pets Safe From The Heat | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Pet%20Heat-Safe%20Tips.pdf) |
-| Cooling Strategies | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/New%20Cooling%20Strategies%20Booklet.pdf) |
-| Ethos System User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos%20basic%20user%20guide%20brochure.pdf) |
-| Ethos Smartphone App User Guide | [PDF](https://github.com/climate-ethos/ethos-documentation/blob/main/docs/assets/Ethos-Reports-and-Leaflets/App%20Brochure.pdf) |
+| Keep Your Pets Safe From The Heat | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Pet%20Heat-Safe%20Tips.pdf) |
+| Cooling Strategies | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/New%20Cooling%20Strategies%20Booklet.pdf) |
+| Ethos System User Guide | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos%20basic%20user%20guide%20brochure.pdf) |
+| Ethos Smartphone App User Guide | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/App%20Brochure.pdf) |
 
 ## News Articles & Media
 
