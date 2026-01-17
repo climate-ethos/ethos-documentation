@@ -22,6 +22,7 @@
 
 | Title | Link |
 |---|---|
+| Lessons Learnt: A Summary from the Ethos Project | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-Lessons-Learnt.pdf) |
 | Ethos Phase 1 In-Home Trial 2023-24 Summary | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-IHT-Phase-1-Summary.pdf) |
 | Ethos Heat-Health 65+ Queensland Survey | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Survey-Technical-Report.pdf) |
 | Ethos Project Policy Maker Report | [PDF](https://raw.githubusercontent.com/climate-ethos/ethos-documentation/main/docs/assets/Ethos-Reports-and-Leaflets/Ethos-Policymaker-Report.pdf) |
